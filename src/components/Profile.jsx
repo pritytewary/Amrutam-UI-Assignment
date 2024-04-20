@@ -1,5 +1,5 @@
-import profile from "../../public/profile.png";
-import background from "../../public/background.png";
+import profile from "../assets/profile.png";
+import background from "../assets/background.png";
 import { IoStar } from "react-icons/io5";
 import { TbDiscountCheckFilled } from "react-icons/tb";
 

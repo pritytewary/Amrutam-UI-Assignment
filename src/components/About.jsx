@@ -2,7 +2,7 @@ import { FiFacebook } from "react-icons/fi";
 import { IoLogoInstagram } from "react-icons/io";
 import { SlSocialYoutube } from "react-icons/sl";
 import { CiTwitter } from "react-icons/ci";
-import girl from "../../public/girlimg.jpg";
+import girl from "../assets/girlimg.jpg";
 
 import { IoStar } from "react-icons/io5";
 import { MdOutlineHomeWork } from "react-icons/md";

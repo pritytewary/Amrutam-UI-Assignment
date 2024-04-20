@@ -1,4 +1,4 @@
-import image from "../../../public/image.png";
+import image from "../../assets/image.png";
 
 export default function Navbar() {
   return (

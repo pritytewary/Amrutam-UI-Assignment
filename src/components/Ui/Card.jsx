@@ -4,6 +4,7 @@ import { GrFormAttachment } from "react-icons/gr";
 import { SlGraduation } from "react-icons/sl";
 import { BiMessageDetail } from "react-icons/bi";
 import { Link } from "react-router-dom";
+import girl2 from "../../assets/girl2.png";
 
 export default function Card() {
   return (
@@ -12,7 +13,7 @@ export default function Card() {
         <div
           className="rounded-full bg-cover bg-center"
           style={{
-            backgroundImage: `url(/public/girl2.png)`,
+            backgroundImage: `url(${girl2})`,
             backgroundSize: "cover",
             backgroundPosition: "center",
             width: "149px",
